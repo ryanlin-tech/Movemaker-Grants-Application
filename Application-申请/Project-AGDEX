@@ -128,70 +128,79 @@ https://www.linkedin.com/in/jerrylai0909/
 
 18. 带里程碑的预算提案（Grant金额通常为10k~50k美元。请按里程碑和预计完成时间制定您的预算计划。）
 
-### 🔸 **1. Marketing Campaign for New Features — $10,000**
+All the KPIs are trackable on 
+https://agdex.io/sentio
 
-We will allocate $10,000 towards marketing campaigns to promote newly launched features, including **AGLP Lock**, **AGTask**, and **Trading Campaigns**.  
-This budget will be used for:
-
+🔸 1. Marketing Campaign for New Features — $10,000
+We will allocate $10,000 towards marketing campaigns to promote newly launched features, including AGLP Lock, AGTask, and Trading Campaigns.
+ This budget will be used for:
 - Social media campaigns (Twitter, Telegram, Discord)
 - Collaborations with Aptos-native KOLs and communities
 - Influencer-based trading competitions
 - Performance-based reward drops to early adopters
-- Video explainers and tutorials for new features  
-The goal is to accelerate **user growth**, **increase retention**, and drive **initial trading volume** on these new modules.
+- Video explainers and tutorials for new features
+ The goal is to accelerate user growth, increase retention, and drive initial trading volume on these new modules.
+KPI Targets:
+- Onboard 1,000+ new users to AGDEX (measured by new AGLP depositors and unique perpetual traders)
+- Grow AGDEX X (Twitter) followers by 20,000+
+- Reach 100,000+ views across marketing content (campaign tweets, videos, tutorials, etc.)
 
 ---
-
-### 🔸 **2. Trading Pairs Limit Upgrade — $10,000**
-
+🔸 2. Trading Pairs Limit Upgrade — $10,000
 Currently, the number of supported trading pairs is limited due to architectural constraints. This budget will support:
-
-- A smart contract upgrade to make the **trading pair module dynamic and scalable**
-- Backend infrastructure improvements to allow **real-time indexing and management of over 100 trading pairs**
+- A smart contract upgrade to make the trading pair module dynamic and scalable
+- Backend infrastructure improvements to allow real-time indexing and management of over 100 trading pairs
 - UI/UX updates to support flexible pair discovery, filtering, and charting
+This will significantly increase AGDEX’s listing capacity, enabling us to onboard more assets (especially long-tail or community-requested tokens), and thus expand market depth and user engagement.
+KPI Targets:
+- Become the first perpetual DEX on Aptos to have capability to support 100+ trading pairs (54 for Merkle Trade ATM, we can make it more than 100 within 5 months)
+- Achieve $1M+ daily trading volume, with cumulative $30M+ total volume
+- Generate $20,000+ in total fees for AGLP liquidity providers
 
-This will **significantly increase AGDEX’s listing capacity**, enabling us to onboard more assets (especially long-tail or community-requested tokens), and thus **expand market depth and user engagement**.
 
 ---
-
-### 🔸 **3. Single Asset LP Module (AGLP.aBTC, etc.) — $20,000**
-
-We are introducing a new module for **Isolated Single Asset Liquidity Pools**, such as `AGLP.aBTC` and `AGLP.stAPT`.
-
+🔸 3. Single Asset LP Module (AGLP.aBTC, etc.) — $20,000
+We are introducing a new module for Isolated Single Asset Liquidity Pools, such as AGLP.aBTC and AGLP.stAPT.
 This budget will cover:
-
 - A special AGLP smart contract version tailored for single-asset pools
 - Custom routing logic for trading against these isolated pools
 - Frontend and analytics support for visibility of these assets
 - Initial liquidity bootstrapping incentives
-
-These pools will enable integration with **Echo’s aBTC** or **Amnis’ stAPT**, providing new sources of liquidity and **diversifying TVL composition**, while reducing volatility risk for LPs.
+These pools will enable integration with Echo’s aBTC or Amnis’ stAPT, providing new sources of liquidity and diversifying TVL composition, while reducing volatility risk for LPs.
+KPI Targets:
+- Launch 2+ isolated single-asset pools (e.g., AGLP.aBTC, AGLP.stAPT)
+- Onboard $500,000+ in TVL through integration with protocols like Echo (aBTC) and Amnis (stAPT)
+- Acquire 100+ new users from partnered ecosystems (measured by wallet addresses interacting with AGDEX from Echo/Amnis)
 
 ---
-
-### 🔸 **4. AGPoints System v2 — $10,000**
-
-We are upgrading the AGPoints system to **Version 2**, which will include:
-
-- Points tracking for both **Perpetual Trading Volume** and **Swap Volume**
+🔸 4. AGPoints System v2 — $10,000
+We are upgrading the AGPoints system to Version 2, which will include:
+- Points tracking for both Perpetual Trading Volume and Swap Volume
 - Tiered earning multipliers based on user behavior and loyalty
 - Enhanced backend performance and fraud prevention
 - A public AGPoints leaderboard and tier-based reward system
-
-The new system aims to create a **more transparent, gamified, and performance-driven incentive layer**, helping AGDEX retain power users and attract new traders through sustainable rewards.
+The new system aims to create a more transparent, gamified, and performance-driven incentive layer, helping AGDEX retain power users and attract new traders through sustainable rewards.
+KPI Targets:
+- Reach 300+ Daily Active Perp Traders on Aptos
+- Maintain Daily Open Interest ≥ $10,000
+- Increase Perpetual and Swap volume by 30% compared to pre-v2 baseline
+- Boost user retention rate by 20%, tracked through weekly returning user cohorts
 
 ---
-
-### 🔸 **5. AGRabbits NFT + AGPoints Gacha System — $30,000**
-
-We are launching a new NFT-based community engagement initiative called **AGRabbits**, featuring:
-
-- A fully animated **Gacha System** where users spend AGPoints to draw for randomized rewards
-- Rewards may include: **AGRabbits NFTs**, **APT tokens**, **USDT**, or **bonus AGPoints**
+🔸 5. AGRabbits NFT + AGPoints Gacha System — $30,000
+We are launching a new NFT-based community engagement initiative called AGRabbits, featuring:
+- A fully animated Gacha System where users spend AGPoints to draw for randomized rewards
+- Rewards may include: AGRabbits NFTs, APT tokens, USDT, or bonus AGPoints
 - Distinct rarities and limited seasonal drops to drive collector demand
 - Cross-integration with AGDEX features (e.g., staking boosters, fee discounts)
+This system combines NFT gamification, DeFi loyalty mechanics, and reward-based user retention, further strengthening the AGPoints ecosystem and expanding user acquisition channels beyond traditional DeFi.
+KPI Targets:
+- Launch the first gamified Gacha NFT system integrated into a Perp DEX (with animation + AGPoints utility)
+- Onboard 2,000+ new users (new AGLP depositors and unique traders engaging with Gacha system)
+- Grow AGDEX X (Twitter) followers by 30,000+
+- Sustain 500+ Daily Active Perp Traders through gamified retention
+- Record 10,000+ Gacha spins in the first 4 weeks post-launch
 
-This system combines **NFT gamification**, **DeFi loyalty mechanics**, and **reward-based user retention**, further strengthening the AGPoints ecosystem and expanding user acquisition channels beyond traditional DeFi.
 
 
 19. 核心团队是否需要Aptos Space（香港）的办公空间支持？
